@@ -1,6 +1,6 @@
 # Introduction
 
-h Welcome
+Welcome
 
 This book intends to be an introduction to Esperanto for English speakers. Esperanto is a constructed language created by L.L. Zamenhof in 1887, and has grown to become the most widely spoken constructed language in history.&#x20;
 
